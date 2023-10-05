@@ -16,6 +16,8 @@
 .small-card_photo > img {
     width: 200px;
     min-width: 200px;
+    height: 130px;
+    min-height: 130px;
 }
 
 .small-card_title {

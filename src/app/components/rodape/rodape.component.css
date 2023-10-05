@@ -1,0 +1,11 @@
+.container_rodape {
+    text-align: center;
+    margin-top: 218px;
+        
+} 
+
+.container_rodape > h1 {
+    color: darkred;
+    font-size: 20px;
+}
+

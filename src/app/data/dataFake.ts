@@ -1,29 +1,29 @@
 export const dataFake = [
     {
         "id": "1",
-        "title": "Homem de Ferro em 3D!",
-        "description": "Marvel anuncia novo filme do Homem de Ferro, confira! ",
-        "photoCover": "https://wallpapers.com/images/hd/iron-man-pictures-k83lqhe6vnh95b1m.jpg"
+        "title": "Rock mundial está a cada dia mais aquecido!",
+        "description": "Veja como as novas bandas estão fomentando a cena do Rock pelo mundo! ",
+        "photoCover": "https://ssrock.com.br/wp-content/uploads/2023/08/bandas1_8DRgnWi4voYMqjb4cIy8Zg.jpg"
     },
 
     {
         "id": "2",
-        "title": "Nova série anunciada!",
-        "description": "A série chega com tudo e promete chocar os telespectadores!",
-        "photoCover": "https://kanto.legiaodosherois.com.br/w760-h398-cfill/wp-content/uploads/2022/10/legiao_D8mFjTNqpZY5.png.webp"
+        "title": "Dia 13 de julho é considerado o dia mundial do Rock and Roll!",
+        "description": "Saiba porque 13 de julho é a data escolhida para o dia do Rock!",
+        "photoCover": "https://www.amambainoticias.com.br/wp-content/uploads/2022/07/2a897-cartaz_diamundialdorock-non.jpg"
     },
 
     {
         "id": "3",
-        "title": "A história da Marvel Studios!",
-        "description": "Marvel desde o início. Histórias inéditas! ",
-        "photoCover": "https://segredosdomundo.r7.com/wp-content/uploads/2020/06/marvel-a-historia-da-editora-nos-quadrinhos-e-no-cinema.jpg"
+        "title": "Conheça a Rock Reverse!",
+        "description": "Banda do interior paulista arrasta multidões por onde passa. Confira a trajetória desses garotos!",
+        "photoCover": "https://media.istockphoto.com/id/961266160/pt/vetorial/rock-band-at-concert.jpg?s=612x612&w=0&k=20&c=vjS5Z1Y6WyVd7ebl2kl09_BnO4Ke6In0hZVDR9UIJKg="
     },
 
     {
         "id": "4",
-        "title": "Lançamento Marvel - WAKANDA FOREVER!",
-        "description": "O filme mais esperado do ano! Confira os bastidores!",
-        "photoCover": "https://hollywoodforevertv.com.br/media/uploads/lancamentos-da-marvel-em-2022.jpg"
+        "title": "Quando o assunto é dinheiro, eles não sabem brincar!",
+        "description": "Uma das maiores bandas de todos os tempos é também uma das mais bem pagas de todos os tempos. Com vocês: METALLICA!",
+        "photoCover": "https://i0.wp.com/top10mais.org/wp-content/uploads/2014/06/metallica-uma-das-melhores-bandas-de-rocks.jpg?resize=600%2C337&ssl=1"
     }
 ]
