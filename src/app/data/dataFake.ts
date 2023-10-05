@@ -3,7 +3,7 @@ export const dataFake = [
         "id": "1",
         "title": "Rock mundial está a cada dia mais aquecido!",
         "description": "Veja como as novas bandas estão fomentando a cena do Rock pelo mundo! ",
-        "photoCover": "https://ssrock.com.br/wp-content/uploads/2023/08/bandas1_8DRgnWi4voYMqjb4cIy8Zg.jpg"
+        "photoCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgmXUrl8iww2n2exn4K71GAg7anDwL5PLesAhowcbJzMFqOz-IFK89vXP8BHL4JzMH6IE&usqp=CAU"
     },
 
     {
